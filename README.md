@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -7,7 +8,7 @@
 
 <body>
     <table>
-   
+    <tr>
     <td align="left"><img src="image.jpg" alt="photo"></td>
     <td align="center"><h1>Куницький Ярослав</h1></td>
     </tr>
@@ -16,7 +17,7 @@
     </tr>
     <tr>
         <td align="center">
-    <p>Інформація знаходиться під грифом "цілком таємно" та зберігається в секретних архівах СБУ.</p>
+   <p>Інформація знаходиться під грифом "цілком таємно" та зберігається в секретних архівах СБУ.</p>
         </td>
     </tr>
         <td>
@@ -39,33 +40,33 @@
     </td>
     </tr>
 </table>
-
+<hr>
 <table align="center">
-     <caption><strong>Skills</strong></caption>
+    <caption><strong>Skills</strong></caption>
     <tr>
-        <td>HTML★★★★</td>
-        <td>CSS★★★★</td>
+        <td>HTML&#9733&#9733&#9733&#9733</td>
+        <td>CSS&#9733&#9733&#9733&#9733</td>
     </tr>
     <tr>
-        <td>C++★★★★★</td>
-        <td>Math★★</td>
+        <td>C++&#9733&#9733&#9733&#9733</td>
+        <td>Math&#9733&#9733</td>
     </tr>
     <tr>
-        <td>Games★★★★</td>
-        <td>Sport★★★</td>
+        <td>Games&#9733&#9733&#9733&#9733</td>
+        <td>Sport&#9733&#9733&#9733</td>
     </tr>
     <tr>
-        <td>Cooking★★★★★</td>
-        <td>C#★★★★★</td>
+        <td>Cooking&#9733&#9733&#9733&#9733&#9733</td>
+        <td>C#&#9733&#9733&#9733&#9733&#9733</td>
     </tr>
     <tr>
-        <td>Fighting★★★★★</td>
-        <td>Singing★</td>
-    </tr>
+        <td>Fighting&#9733&#9733&#9733&#9733</td>
+        <td>Singing&#9733</td>
+    </tr> 
 </table>
-
+<hr></hr>
 <h3>Контактні дані</h3>
 <p><a href="MyContact.html">6131372@stud.nau.edu.ua</a></p>
-
+<hr></hr>
 </body>
 </html>
