@@ -32,7 +32,7 @@
     </ul>
         </td>
         <td align="right">
-    <h2>Улюблені серьяли</h2>
+    <h2>Улюблені фільми</h2>
     <b>
       <li><a href="https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D1%82%D1%80%D1%8B%D0%B5_%D0%BA%D0%BE%D0%B7%D1%8B%D1%80%D1%8C%D0%BA%D0%B8">Острые козырки</a></li>
       <li><a href="https://www.kinopoisk.ru/film/694014/">Да здравствует Франция</a></li>
