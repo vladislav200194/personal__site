@@ -7,7 +7,7 @@
 
 <body>
     <table>
-    <tr>
+   
     <td align="left"><img src="image.jpg" alt="photo"></td>
     <td align="center"><h1>Куницький Ярослав</h1></td>
     </tr>
@@ -39,33 +39,33 @@
     </td>
     </tr>
 </table>
-<hr>
+
 <table align="center">
      <caption><strong>Skills</strong></caption>
     <tr>
-        <td>HTML&#9733&#9733&#9733&#9733</td>
-        <td>CSS&#9733&#9733&#9733&#9733</td>
+        <td>HTML★★★★</td>
+        <td>CSS★★★★</td>
     </tr>
     <tr>
-        <td>C++&#9733&#9733&#9733&#9733</td>
-        <td>Math&#9733&#9733</td>
+        <td>C++★★★★★</td>
+        <td>Math★★</td>
     </tr>
     <tr>
         <td>Games★★★★</td>
-        <td>Sport&#9733&#9733&#9733</td>
+        <td>Sport★★★</td>
     </tr>
     <tr>
-        <td>Cooking&#9733&#9733&#9733&#9733&#9733</td>
-        <td>C#&#9733&#9733&#9733&#9733&#9733</td>
+        <td>Cooking★★★★★</td>
+        <td>C#★★★★★</td>
     </tr>
     <tr>
-        <td>Fighting&#9733&#9733&#9733&#9733</td>
-        <td>Singing&#9733</td>
+        <td>Fighting★★★★★</td>
+        <td>Singing★</td>
     </tr>
 </table>
 
 <h3>Контактні дані</h3>
 <p><a href="MyContact.html">6131372@stud.nau.edu.ua</a></p>
-<hr></hr>
+
 </body>
 </html>
