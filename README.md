@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -42,7 +41,7 @@
 </table>
 <hr>
 <table align="center">
-    <caption><strong>Skills</strong></caption>
+     <caption><strong>Skills</strong></caption>
     <tr>
         <td>HTML&#9733&#9733&#9733&#9733</td>
         <td>CSS&#9733&#9733&#9733&#9733</td>
@@ -62,9 +61,9 @@
     <tr>
         <td>Fighting&#9733&#9733&#9733&#9733</td>
         <td>Singing&#9733</td>
-    </tr> 
+    </tr>
 </table>
-<hr></hr>
+
 <h3>Контактні дані</h3>
 <p><a href="MyContact.html">6131372@stud.nau.edu.ua</a></p>
 <hr></hr>
